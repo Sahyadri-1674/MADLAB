@@ -1,0 +1,32 @@
+{
+  "display": "standalone",
+  "theme_color": "#f3b321",
+  "background_color": "#f33521",
+  "start_url": "/",
+  "name": "foodie- a FastFood website",
+  "short_name": "foodie",
+  "orientation": "potrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
